@@ -6,6 +6,8 @@ This Repository depicts various usage of SQL commands/functions for data manipul
       -Create/ Alter/ Drop dB objects  
       -Update/ Insert/ Delete from/ to dB objects  
       -Joins in Sql  
+      -Groupby functions, Having Clause  
+      -DateTime and String Functions  
       -Stored Procedures  
       -Views  
       -Functions in Sql  
